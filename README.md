@@ -1,1 +1,1 @@
-# heart-disease-classification
+#Regression and classification projects
